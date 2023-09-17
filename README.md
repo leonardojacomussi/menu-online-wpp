@@ -33,7 +33,7 @@ Online Menu is an online menu project in which the customer assembles his order 
 
 <h2 id="live">👁️‍🗨️ Live</h2>
 
-This project is hosted at Github Pages of this repository by the link <a href="https://leonardojacomussi.github.io/menu-online-wpp" target="_blank">https://leonardojacomussi.github.io/menu-online-wpp</a>
+This project is hosted at Github Pages of this repository by the link <a href="https://leonardojacomussi.github.io/menu-online-wpp/" target="_blank">https://leonardojacomussi.github.io/menu-online-wpp/</a>
 
 <h2 id="technologies">🚀 Technologies</h2>
 
